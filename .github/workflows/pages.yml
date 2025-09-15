@@ -1,0 +1,18 @@
+name: CI for Key-Definitions
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Key-Definitions repo
+        uses: actions/checkout@v4
+
+      - name: Basic validation
+        run: |
+          echo "Checked out Key-Definitions repo"
+          ls -la
