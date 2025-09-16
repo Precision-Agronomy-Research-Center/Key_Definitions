@@ -1,7 +1,7 @@
 [
   {
     "term": "Farmstead",
-    "definition": "A managed ecosystem that supports human life."
+    "definition": "An independent* managed ecosystem that supports human life."
   },
   {
     "term": "Appropriate Technology",
@@ -16,7 +16,19 @@
     "definition": "Resilient and generationally sustainable."
   },
   {
-    "term": "Independent",
-    "definition": "A system that can operate and sustain itself without external inputs."
+    "term": "*Independent",
+    "definition": "Without external inputs."
+  },
+  {
+    "term": "*Independent",
+    "definition": "Without external inputs."
+  },
+  {
+    "term": "*Independent",
+    "definition": "Without external inputs."
+  },
+  {
+    "term": "*Independent",
+    "definition": "Without external inputs."
   }
 ]
